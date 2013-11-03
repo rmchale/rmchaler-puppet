@@ -1,0 +1,10 @@
+[main]
+enabled=1
+
+[rm-yum]
+name=rm-yum
+gpgcheck=0
+priority=1
+s3_enabled=1
+access_key=AKIAJMRXJIEQUAV4ZNTA
+secret_key=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
